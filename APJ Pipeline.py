@@ -16,9 +16,8 @@ import pandas as pd
 from os import listdir
 from os.path import isfile, join
 
-
+##Carry over from last step
 merge_by_primary = pd.read_csv("XXXX",encoding="latin1")
-
 citation_list = pd.read_csv("XXXXXX",encoding="latin1")
 
 
