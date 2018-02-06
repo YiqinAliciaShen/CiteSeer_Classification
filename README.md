@@ -11,7 +11,7 @@ There are two major types of citations:
 
 (b) the mention of scientific results without analyzing the CCDP data (finding based citation), e.g. "As shown by Smith & Wesson (2016), the ratio of the number of galaxies relative to field stars increases dramatically with photometric depth." 
 
-This repo obtains data and implement predictive model to distinguish between those two classes.
+This repo obtains data and implement predictive model to distinguish between those two types.
 
 ## Dependencies
 
