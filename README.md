@@ -19,7 +19,7 @@ Astrophysics API, information about usage avaialable at https://github.com/adsab
 
 ## Components
 
-Run roughly in the sequence of following:
+Run in following sequence:
 
 Astrophysics_API.py: Interface with astrophysics API to obtain metadata (including DOI) associated with script.
 
